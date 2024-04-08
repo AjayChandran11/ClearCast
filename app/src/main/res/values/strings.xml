@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClearCast</string>
+    <string name="temperature_text">%d°</string>
+    <string name="temperature_text_celsius">%d°C</string>
+    <string name="error_message">Something went wrong</string>
+    <string name="retry">RETRY</string>
+</resources>
